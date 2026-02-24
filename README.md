@@ -2,7 +2,7 @@
 
 I am a Data Scientist based in Italy.
 
-I work on AI/ML projects and statistical analysis. Currently, I am exploring the new world of Agentic AI.
+I work on AI/ML projects and statistical analysis. Since the world has decided it's all about agents now, I'm currently diving into the new frontier of Agentic AI.
 
 ---
 
