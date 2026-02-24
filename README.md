@@ -2,8 +2,7 @@
 
 I am a Data Scientist based in Italy.
 
-
-I work on AI - ML projects, some statistical analysis. Nowadays, exploring the new world of Agentic AI.
+I work on AI/ML projects and statistical analysis. Currently, I am exploring the new world of Agentic AI.
 
 ---
 
@@ -11,7 +10,7 @@ I work on AI - ML projects, some statistical analysis. Nowadays, exploring the n
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL (BigQuery), Java |
+| **Languages** | Python, SQL, Java |
 | **AI & Machine Learning** | Scikit-learn, TensorFlow, PyTorch, MLFlow |
 | **Generative AI** | LLMs (Gemini, OpenAI), LangChain, LangGraph |
 | **Data Engineering** | Spark, Hadoop, Docker, GKE (Google Kubernetes Engine) |
@@ -22,3 +21,10 @@ I work on AI - ML projects, some statistical analysis. Nowadays, exploring the n
 ### 🎓 Certifications
 * **Professional Machine Learning Engineer** – Google Cloud Certified
 * **Cambridge English: Advanced (CAE)**
+
+---
+
+### 🌸 Facts about me:
+* I used to do ballet; now I juggle functional training, yoga, and Pilates.
+* I am a dog person. 🐶
+* I love fantasy books. 📚
