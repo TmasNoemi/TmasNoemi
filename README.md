@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Noemi 👋
 
-<!--
-**TmasNoemi/TmasNoemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist based in Italy.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on AI - ML projects, some statistical analysis. Nowadays, exploring the new world of Agentic AI.
+
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL (BigQuery), Java |
+| **AI & Machine Learning** | Scikit-learn, TensorFlow, PyTorch, MLFlow |
+| **Generative AI** | LLMs (Gemini, OpenAI), LangChain, LangGraph |
+| **Data Engineering** | Spark, Hadoop, Docker, GKE (Google Kubernetes Engine) |
+| **Visualization** | Streamlit, Plotly Dash, Geopandas, Folium |
+
+---
+
+### 🎓 Certifications
+* **Professional Machine Learning Engineer** – Google Cloud Certified
+* **Cambridge English: Advanced (CAE)**
